@@ -1,3 +1,5 @@
+#decode string
+
 def dec_str(s):
     ct_st = []
     str_st = []

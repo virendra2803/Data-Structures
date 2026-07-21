@@ -1,4 +1,4 @@
-
+#is_subsequence
 def issub(s,t):
     for i in s:
         if i in t:

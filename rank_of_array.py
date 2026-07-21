@@ -1,3 +1,4 @@
+#rank_of_array
 arr = [1,1,1,2,4]
 map1 = {}
 res = []
