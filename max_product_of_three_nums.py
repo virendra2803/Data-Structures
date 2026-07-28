@@ -2,11 +2,9 @@
 
 nums = [1,2,-3,-4,-2,3]
 
-first_smallest = float("inf")
-second_smallest = float("inf")
-first_largest = float("-inf")
-second_largest = float("-inf")
-third_largest = float("-inf")
+first_smallest = second_smallest = float("inf")
+first_largest = second_largest = third_largest = float("-inf")
+
 for i in nums:
     if i > first_largest:
         third_largest = second_largest
